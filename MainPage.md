@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-07T15:41:55.928Z
+date: 2020-11-07T15:42:08.371Z
 tags: home, 首页, 开始, 起始页, mainpage
 editor: markdown
 dateCreated: 2020-11-07T15:33:11.732Z
@@ -21,6 +21,7 @@ dateCreated: 2020-11-07T15:33:11.732Z
 - 1. 拍摄并制作学校的各种活动视频
 - 2. 拍摄各种活动的照片<span title="你知道的太多了" class="heimu">抢隔壁M4摄影协会工作</span>
 - 3. 帮助学校维护各种设备，包括但不限于帮老师修电脑XD
+- 4. （待补充）
 
 ---
 
