@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-07T15:36:44.975Z
+date: 2020-11-07T15:37:48.053Z
 tags: home, 首页, 开始, 起始页, mainpage
 editor: markdown
 dateCreated: 2020-11-07T15:33:11.732Z
@@ -19,6 +19,9 @@ dateCreated: 2020-11-07T15:33:11.732Z
 
 5 A.M. Studio是一个最初由8个人创建的小<span title="你知道的太多了" class="heimu">搞事集团</span>工作室，我们负责做学校的各种视频，以及各种宣传方面的工作
 
+---
+
 想更多地了解我们？你可以通过以下方式找到我们：
 
 - 哔哩哔哩官方：[5AM工作室](https://space.bilibili.com/388224428)
+- 微信公众号：[5 AM Studio](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU2ODc4MjEwOQ==&mid=2247484233&idx=1&sn=9f7d9b25e60ef8b6e8f0f2a7e7f14305&send_time=)
