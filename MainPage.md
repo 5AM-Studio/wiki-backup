@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-07T15:42:08.371Z
+date: 2020-11-07T15:44:16.314Z
 tags: home, 首页, 开始, 起始页, mainpage
 editor: markdown
 dateCreated: 2020-11-07T15:33:11.732Z
@@ -20,7 +20,7 @@ dateCreated: 2020-11-07T15:33:11.732Z
 5 A.M. Studio是一个最初由8个人创建的小<span title="你知道的太多了" class="heimu">搞事集团</span>工作室，我们负责做学校的各种视频，以及各种宣传方面的工作，以下是我们的工作列表：
 - 1. 拍摄并制作学校的各种活动视频
 - 2. 拍摄各种活动的照片<span title="你知道的太多了" class="heimu">抢隔壁M4摄影协会工作</span>
-- 3. 帮助学校维护各种设备，包括但不限于帮老师修电脑XD
+- 3. 帮助学校维护各种设备，包括但不限于帮老师修电脑XD<span title="你知道的太多了" class="heimu">典型工具人</span>
 - 4. （待补充）
 
 ---
