@@ -2,13 +2,12 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-07T23:48:06.507Z
+date: 2020-11-08T02:07:21.525Z
 tags: home, 首页, 起始页, 主页
 editor: markdown
 dateCreated: 2020-11-07T23:48:06.507Z
 ---
 
-# 5 A.M. Wiki
 > 你好~欢迎来到5 A.M. Wiki的小伙伴！
 {.is-info}
 
