@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-08T02:27:30.974Z
+date: 2020-11-08T02:28:52.366Z
 tags: home, 首页, 起始页, 主页
 editor: markdown
 dateCreated: 2020-11-07T23:48:06.507Z
@@ -31,4 +31,5 @@ dateCreated: 2020-11-07T23:48:06.507Z
 
 ---
 
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+本站总访问量：
+![](https://count.getloli.com/get/@5%20A.M.%20Wiki?theme=gelbooru)
