@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到5 A.M. Wiki
 published: true
-date: 2020-11-08T02:28:52.366Z
+date: 2020-11-15T04:18:41.925Z
 tags: home, 首页, 起始页, 主页
 editor: markdown
 dateCreated: 2020-11-07T23:48:06.507Z
@@ -27,7 +27,7 @@ dateCreated: 2020-11-07T23:48:06.507Z
 想更多地了解我们？你可以通过以下方式找到我们：
 
 - 哔哩哔哩官方：[5AM工作室](https://space.bilibili.com/388224428)
-- 微信公众号：[5 AM Studio](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU2ODc4MjEwOQ==&mid=2247484233&idx=1&sn=9f7d9b25e60ef8b6e8f0f2a7e7f14305&send_time
+- 微信公众号：[5 AM Studio](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU2ODc4MjEwOQ==&mid=2247484233&idx=1&sn=9f7d9b25e60ef8b6e8f0f2a7e7f14305&send_time)
 
 ---
 
